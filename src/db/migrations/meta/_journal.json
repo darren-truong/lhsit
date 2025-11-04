@@ -29,6 +29,13 @@
       "when": 1762255368035,
       "tag": "0003_nosy_synch",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1762287039650,
+      "tag": "0004_worthless_jackal",
+      "breakpoints": true
     }
   ]
 }
